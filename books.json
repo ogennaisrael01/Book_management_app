@@ -1,0 +1,92 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "ISBN": "9780743273565",
+        "Publication_date": "1925-04-10",
+        "description": "A novel set in the Roaring Twenties.",
+        "available": true,
+        "total_copies": 5,
+        "available_copies": 5
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "ISBN": "9780061120084",
+        "Publication_date": "1960-07-11",
+        "description": "A novel about racial injustice in the Deep South.",
+        "available": true,
+        "total_copies": 3,
+        "available_copies": 3
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "ISBN": "9780451524935",
+        "Publication_date": "1949-06-08",
+        "description": "A dystopian novel about totalitarianism and surveillance.",
+        "available": true,
+        "total_copies": 4,
+        "available_copies": 4
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "ISBN": "9780141040349",
+        "Publication_date": "1813-01-28",
+        "description": "A romantic novel that critiques the British landed gentry at the end of the 18th century.",
+        "available": true,
+        "total_copies": 2,
+        "available_copies": 2
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "ISBN": "9780316769488",
+        "Publication_date": "1951-07-16",
+        "description": "A novel about teenage rebellion and alienation.",
+        "available": false,
+        "total_copies": 1,
+        "available_copies": 0
+    },
+    {
+        "title": "Americanah",
+        "author": "Chiamanda Adiche",
+        "ISBN": "3839900433234",
+        "Publication_date": "2013-04-01",
+        "description": "About a nigerian writer based in america",
+        "available": true,
+        "total_copies": 7,
+        "available_copies": 7
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R..R. Tolkien",
+        "ISBN": "3949940404393",
+        "Publication_date": "2012-03-02",
+        "description": "A hobbit's unexpected journey with a band of dwarves",
+        "available": true,
+        "total_copies": 6,
+        "available_copies": 6
+    },
+    {
+        "title": "Atomic habits",
+        "author": "James Clear",
+        "ISBN": "74839390303",
+        "Publication_date": "2018-04-03",
+        "description": "A guide to building good habits and breaking bad one's",
+        "available": true,
+        "total_copies": 3,
+        "available_copies": 3
+    },
+    {
+        "title": "Things fall apart",
+        "author": "Chinue achebe",
+        "ISBN": "293948485",
+        "Publication_date": "2012-04-03",
+        "description": "An age story",
+        "available": true,
+        "total_copies": 5,
+        "available_copies": 5
+    }
+]
